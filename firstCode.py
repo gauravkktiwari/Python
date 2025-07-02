@@ -75,4 +75,4 @@ print(list( x for x in 'pwskills'))
 """ Write a code to print odd numbers from 1 to 100 using list comprehension.
     Note: Use a list comprehension to create a list from 1 to 100 and use another List comprehension to filter out odd numbers. """
 
-print([x for x in [ i for i in range(1, 101)] if x %2 != 0])
+print([x for x in [ i for i in range(1, 50)] if x %2 != 0])
